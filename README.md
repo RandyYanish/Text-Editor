@@ -16,7 +16,19 @@
 
 ## Application
 
-The application is available to 
+The application is available to try on [Heroku!](https://afternoon-crag-68772-a25ff27e0a52.herokuapp.com/)
+
+The text editor single page application:
+![Main Page of the JATE application](./Assets/mainPage.png)
+
+The manifest is stored in the application tab of the developer tools (F12).
+![manifest.json stored in the application developer tools](./Assets/manifest.png)
+
+The service workers are stored under the application tab as well:
+![Service worker stored in the application developer tools](./Assets/serviceWorker.png)
+
+Make sure to check the consolel logs to see if the database was created properly! It should look like this when you first open it up:
+![Console reading on first load of the application](./Assets/console.png)
 
 ## Installation
 
